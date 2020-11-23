@@ -1,0 +1,24 @@
+body{
+  background-color:  #eeeded;
+}
+
+h1 {
+  color: #51adcf
+}
+
+h3 {
+  color: #db6400
+}
+hr {
+  height: 0px;
+  width: 5%;
+  border-style: dotted none none;
+  border-color: #ffcb8e;
+  border-width: 5px;
+}
+.thank-u{
+  border-style: outset;
+  display: inline-block;
+  margin-left: 500px;
+  margin-top: 250px;
+}
